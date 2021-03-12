@@ -24,9 +24,9 @@ npm install
 
 The environment is defined in `urls.js` file. Passing environment by command line, such as:
 
-- qa: ```ENV=qa npm run test```  _(This is the default environment when not passed)_
+- __qa__: ```ENV=qa npm run test```  _(This is the default environment when not passed)_
 
-- prod: ```ENV=prod npm run test```
+- __prod__: ```ENV=prod npm run test```
 
 
 ### Running the tests
